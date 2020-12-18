@@ -1,0 +1,9 @@
+com\vuong\entity\BookDetail.class
+com\vuong\repository\CategoryRepository.class
+com\vuong\entity\Book.class
+com\vuong\repository\BookRepository.class
+com\vuong\service\LibServiceimpl.class
+com\vuong\entity\Category.class
+com\vuong\repository\BookDetailRepository.class
+com\vuong\service\LibServiceIF.class
+com\vuong\controller\LibController.class
